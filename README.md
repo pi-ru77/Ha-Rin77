@@ -15,7 +15,6 @@
 
 📄 You can visit my [**Portfolio**](https://www.notion.so/H4Rin_-12500927e95b809281e6d2ed739d0722) for more information about me!
 
-[![Discord](https://discord-profile-h4rini._.paring.moe/discord/798690702635827200?)](https://discord.gg/KkMVFJEVXA)
 
 
 <!--
