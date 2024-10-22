@@ -7,7 +7,7 @@
 
 👋 Welcome to my GitHub profile! I'm **H4Rin**, an aspiring student developer from **Seoul**, **South Korea**.
 
-📝 Currently studying in middle school and [**SNU Science Education Institute for Gifted**](http://gifted.snu.ac.kr/main/index.action).
+📝 Currently studying in middle school and [**SNU SoftWare Education Institute for Gifted**](https://talented.snue.ac.kr/).
 
 💡 Interested in **Discord Bot**, **Information Security System**, **HTML Web Development**, and **Rhythm Games**.
 
